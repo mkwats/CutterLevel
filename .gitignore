@@ -1,3 +1,19 @@
+
+##lots of rubbish
+
+**/DEBUG/**
+**/Drivers/**
+**/MDK_ARM/**
+MDK_ARM/**
+Workspace/**
+Drivers/
+.project
+.cproject
+
+##google drive file
+*.ini
+
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
